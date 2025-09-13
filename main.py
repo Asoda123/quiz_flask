@@ -5,12 +5,6 @@ from flask import Flask
 from flask import url_for, redirect
 from flask import render_template, request
 
-
-
-
-
-api = 'https://api.privatbank.ua/p24api/pubinfo?exchange&coursid=5'
-
 capitals = ['paris',"berlin",'tokyo','washington','rome']
 
 
